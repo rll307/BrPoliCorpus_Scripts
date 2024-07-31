@@ -29,3 +29,7 @@ I would like to acknowledge CAPES and Alexander Humboldt Foundation for financin
       version = {1.0},
       date = {2024-7-01},
     }
+[def]: mailto:rll307@unicamp.br
+[def2]: mailto:stegmeier@linglit.tu-darmstadt.de
+[def3]: mailto:ni.yan@tu-darmstadt.de
+[def4]: mailto:dariia.shamgunova@stud.tu-darmstadt.de
