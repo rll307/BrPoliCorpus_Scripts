@@ -19,7 +19,7 @@ The following researchers have contributed to this corpus:
 
 ## Acknowledgments
 
-I would like to acknowledge CAPES and Alexander Humboldt Foundation for financing this version of this Corpus. To all the team of TU-Darmstadt who made this project possible. 
+I would like to acknowledge CAPES, Alexander Humboldt Foundation and CNPq (Brazilian National Council for Scientific and Technological Development (311099/2021-1)) for financing this version of this Corpus. To all the team of TU-Darmstadt who made this project possible. 
 
 
 ## How to cite:
